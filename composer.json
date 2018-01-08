@@ -1,0 +1,7 @@
+{
+    "name": "wpackagist-plugin/groups",
+    "description": "Groups is an efficient and powerful solution, providing group-based user membership management, group-based capabilities and content access control.",
+    "type": "wordpress-plugin",
+    "license": "GNU-public",
+    "require": {}
+}
